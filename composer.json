@@ -1,0 +1,19 @@
+{
+    "name": "webgarage/testo",
+    "description": "Testo package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Webgarage\\Testo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Shabunevich",
+            "email": "loonar@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    }
+}
