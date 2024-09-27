@@ -6,6 +6,6 @@ class Testo
 {
   public function testo()
   {
-    return 'testo';
+    return 'testo 1.0';
   }
 }
